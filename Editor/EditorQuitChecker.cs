@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace UniEditorQuitChecker
+namespace Kogane.Internal
 {
 	[InitializeOnLoad]
 	internal static class EditorQuitChecker
